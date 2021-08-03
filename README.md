@@ -19,8 +19,9 @@ In my profile you can find some of my previous work at school and some projects 
 - 📫 How to reach me: 
   * [LinkedIn](https://www.linkedin.com/in/c-garciao)
   * [Web](https://cgarciao.duckdns.org/index.html)
-* **
 <!--
+* **
+
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact: I'm not a programmer but I enjoy coding, specially if it's related with automation process and system administration
@@ -49,8 +50,9 @@ En mi perfil podrás encontrar algunas de las prácticas que realicé en Formaci
 - 📫 Formas de contacto: 
   * [LinkedIn](https://www.linkedin.com/in/c-garciao)
   * [Web](https://cgarciao.duckdns.org/index.html)
-* **
 <!--
+* **
+
 - 😄 Pronouns: ...
 -->
 - ⚡ Curiosidad: no soy programador pero me gusta programar especialmente para la automatización de tareas y para las tareas de administración
